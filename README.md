@@ -1,5 +1,4 @@
-In this project two tables employee and department was created then valuses was inserted in tables.
-Task performed
+In this project two tables employee and department was created then valuses was inserted in tables. This project involves analysis on employee and department data that showcase my skill in sql.
 -Finding the employees whose name starts with B.
 -identified employees in the department having department id 2.
 -Calculated number of records in the employees table
